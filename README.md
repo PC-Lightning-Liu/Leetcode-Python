@@ -1,1 +1,1 @@
-# Leetcode-Python
+# Two Sum
